@@ -1,0 +1,13 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Oct 30, 2023, 3:08:40 PM
+    Author     : Admin
+*/
+.text-field#input_id1, .text-field#input_id111, .text-field#input_id1111, .text-field#input_id1112, .text-field#input_id11121, .text-field#input_id11122, .text-field#input_id11123 {
+    -fx-background-color: #ebeaea; /* Dark gray background */
+    -fx-border-color: #ebeaea;
+    -fx-text-fill: black; /* White text color */
+}
